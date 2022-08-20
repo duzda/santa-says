@@ -23,7 +23,7 @@ Music from: https://www.zapsplat.com
 
 
 ## License
-Code of this game is under [MIT license](LICENSE), art is under [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/)
+Code of this game is under [MIT license](LICENSE), art can be used for any purposes without any credit, although do not resell/redistribute unmodified assets and don't use in NFTs
 
 **Font, sounds and music** are not included, as I'm not the creator of those and each has it's own licence, if you would like to use them, get your own copy at their respective pages:
 
